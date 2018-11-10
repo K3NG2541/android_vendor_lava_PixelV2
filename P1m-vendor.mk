@@ -20,4 +20,4 @@
 
 # Proprietary dependencies go here
 
-$(call inherit-product, vendor/lava/PixelV2/PixelV2-vendor-blobs.mk)
+$(call inherit-product, vendor/lenovo/P1m/P1m-vendor-blobs.mk)
